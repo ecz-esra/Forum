@@ -1,0 +1,46 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "user": "Esra",
+      "title": "React Mvc Patter",
+      "text": "Ben bunu nasil ogrenirim?"
+    },
+    {
+      "id": 2,
+      "user": "Emre",
+      "title": "React Mvc Patter miii",
+      "text": "Ben bunu ogrendim"
+    },
+    {
+      "id": 1679830381910,
+      "user": "fgh",
+      "title": "ghj",
+      "text": "ghj"
+    },
+    {
+      "id": 1679830446063,
+      "user": "fgh",
+      "title": "hj",
+      "text": "hj"
+    },
+    {
+      "id": 1679832243837,
+      "user": "emresd",
+      "title": "sdfgh",
+      "text": "bgnm\n"
+    },
+    {
+      "id": 1679832259212,
+      "user": "tyuik",
+      "title": "gbhnm",
+      "text": "bnm"
+    },
+    {
+      "id": 1679990558082,
+      "user": "sdfg",
+      "title": "zxsdfvbgh",
+      "text": "sdfgh"
+    }
+  ]
+}
